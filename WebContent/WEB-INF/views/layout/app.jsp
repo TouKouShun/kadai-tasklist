@@ -4,12 +4,12 @@
 <html lang="ja">
     <head>
         <meta charset="UTF-8">
-        <title>タスク</title>,
+        <title>タスク</title>
         <link rel="stylesheet" href="<c:url value='/css/reset.css' />">
         <link rel="stylesheet" href="<c:url value='/css/style.css' />">
     </head>
     <body>
-        <div id="wrapper">
+
             <div id="header">
                 <h1>タスク管理アプリケーション</h1>
             </div>
@@ -19,6 +19,6 @@
             <div id="footer">
                 by 068.
             </div>
-        </div>
+
     </body>
 </html>
